@@ -1,0 +1,39 @@
+{
+  "name": "sdk-wechat",
+  "description": "Npm package for Weixin (alias: wechat, wx) sdk.",
+  "version": "1.0.1",
+  "author": {
+    "name": "Emil Zhai",
+    "email": "root@derzh.com"
+  },
+  "keywords": [
+    "sdk-wechat",
+    "sdk",
+    "wechat",
+    "wx",
+    "weixin",
+    "jssdk",
+    "jweixin",
+    "jweixin.js",
+    "js"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinymins/sdk-wechat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tinymins/sdk-wechat/issues"
+  },
+  "homepage": "https://github.com/tinymins/sdk-wechat#readme",
+  "typings": "types/index.d.ts",
+  "files": [
+    "types/*.d.ts",
+    "src/*",
+    "dist/*",
+    "*.md",
+    "*.js",
+    "*.json"
+  ],
+  "main": "./index.js"
+}
