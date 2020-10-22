@@ -9,11 +9,11 @@ NPM package for Weixin (alias: wechat, wx) sdk.
 Import sdk-wechat:
 
 ```js
-import { wx } from 'sdk-wechat';
+import wx from 'sdk-wechat';
 ```
 
 Import specific version of jweixin:
 
 ```js
-import { wx } from 'sdk-wechat/1.2.0';
+import wx from 'sdk-wechat/1.2.0';
 ```
